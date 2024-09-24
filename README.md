@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tahreem Arshad</h1>
-<h3 align="center">A passionate frontend web developer and Ai from Pkistan</h3>
+<h3 align="center">A passionate frontend web developer and Ai from Pakistan</h3>
 
 <img align="right" alt="coding" width="400px" src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=2000">
 
